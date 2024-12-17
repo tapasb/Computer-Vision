@@ -1,0 +1,19 @@
+# Visual Studio Files
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+ipch/
+*.VC.db
+*.opendb
+Debug/
+Release/
+x64/
+*.tlog
+*.log
+vcpkg_installed/
+.ipynb_checkpoints
